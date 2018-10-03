@@ -1,1 +1,1 @@
-# WEC-ML
+# WEC-ML-Mentorship
